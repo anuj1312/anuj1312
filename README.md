@@ -11,14 +11,14 @@
 ---
 
 ### :Technologist: About Me :
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I am a Graduate Student at IIT Madras pursuing Aerospace Engineering
+   
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Graduate Student at IIT Madras pursuing Aerospace Engineering
 
-- :seedling: Exploring Machine Learning and its applications in Finance and Trading!
+- :telescope: Interested in Data-Driven Modelling and Machine Learning applications in various fields including Mechanical, Aerospace & Finance Domains.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Currently Exploring Machine Learning and its applications in Finance and Trading!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anuj-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/anuj-nigam-982896236/))
 
 ---
 
